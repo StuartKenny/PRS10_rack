@@ -1,0 +1,16 @@
+100u
+NAME=ECA-2AM101
+10mm dia, 16.1mm tall, 5mm pitch, 0.5mm dia legs
+PACKAGE=CAPPRD500W60D1000H1600
+
+22u
+NAME=MCRH50V226M5X11
+5mm dia, 11.3mm tall, 2mm pitch, 0.5mm dia legs
+PACKAGE=CAPPRD200W50D500H1100
+
+Current pad S128H85
+1.28mm square (50 thou)
+0.85mm dia hole (35 thou)
+
+Hole needed 0.7mm (30 or 32 thou)
+Selected S-60-32
