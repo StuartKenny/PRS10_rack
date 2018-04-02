@@ -1,0 +1,15 @@
+Default via
+15th (0.38mm) hole
+30th (0.76mm) dia
+
+30AWG (0.05mm2) currently fits through via but tricky to solder and only 0.85A capacity
+22AWG (0.64mm2) copper would have a 0.91mm diameter 
+
+
+
+
+C-80-30 is the manually placed through-hole
+Dia 80th
+Drill Mark 25th
+Drill hole 30th
+Gap guard 5th
